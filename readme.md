@@ -1,11 +1,10 @@
-To Do List
-
----
+# To Do List
 
 Built with Vanilla JS.
 
-Functionalities:
+## Functionalities
 
-- adding a new task
-- deleting a task
-- editing a task
+- adding tasks
+- deleting tasks
+- editing tasks
+
